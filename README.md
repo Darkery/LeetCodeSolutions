@@ -19,4 +19,4 @@ The project is a personal learning workspace for recording solutions in [LeetCod
 - [175][Combine_Two_Tables](https://leetcode.com/problems/combine-two-tables/)
 - [195][Tenth_Line](https://leetcode.com/problems/tenth-line/)
 - [206][Reverse_Linked_List](https://leetcode.com/problems/reverse-linked-list/)
-- [300][Reverse_Linked_List](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [300][longest_increasing_subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)

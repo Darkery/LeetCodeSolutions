@@ -14,6 +14,7 @@ The project is a personal learning workspace for recording solutions in [LeetCod
 - [11][Container_With_Most_Water]()
 - [24][Swap_Nodes_in_Pairs](code-cn.com/problems/swap-nodes-in-pairs/)
 - [25][Reverse_Nodes_in_k_Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+- [120][Triangle](https://leetcode.com/problems/triangle/)
 - [134][Gas_Station](https://leetcode.com/problems/gas-station/)
 - [141][Linked_List_Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [175][Combine_Two_Tables](https://leetcode.com/problems/combine-two-tables/)

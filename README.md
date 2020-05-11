@@ -17,6 +17,7 @@ The project is a personal learning workspace for recording solutions in [LeetCod
 - [120][Triangle](https://leetcode.com/problems/triangle/)
 - [134][Gas_Station](https://leetcode.com/problems/gas-station/)
 - [141][Linked_List_Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [152][Maximum_Product_Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - [175][Combine_Two_Tables](https://leetcode.com/problems/combine-two-tables/)
 - [195][Tenth_Line](https://leetcode.com/problems/tenth-line/)
 - [206][Reverse_Linked_List](https://leetcode.com/problems/reverse-linked-list/)

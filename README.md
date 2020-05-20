@@ -22,5 +22,6 @@ The project is a personal learning workspace for recording solutions in [LeetCod
 - [195][Tenth_Line](https://leetcode.com/problems/tenth-line/)
 - [206][Reverse_Linked_List](https://leetcode.com/problems/reverse-linked-list/)
 - [300][longest_increasing_subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [354][Russian_Doll_Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
 - [887][super_egg_drop](https://leetcode.com/problems/super-egg-drop/)
 - [1143][longest_Common_Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
